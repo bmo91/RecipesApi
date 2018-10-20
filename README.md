@@ -2,9 +2,9 @@
 
 Needs a lot (and I mean: A LOT) of improvment.
 
-*Bootstrap and other dependecies bring potential security vulnerabilities, so please be carefull when using the code;
-*Is an API that uses another API;
-*Too slow in rendering (see above bullet points to know why);
++Bootstrap and other dependecies bring potential security vulnerabilities, so please be carefull when using the code;
++Is an API that uses another API;
++Too slow in rendering (see above bullet points to know why);
 
 Also want to personalize it, as well
 
